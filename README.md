@@ -1,2 +1,2 @@
 # ex-repo
-example for git commands demonstration
+example for git commands demonstration.
